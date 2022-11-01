@@ -1,3 +1,6 @@
+### Hi, there~👋🥰   
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KDE's%20PORTFOLIO&fontSize=90)
+
 ### 💻 사용하는 언어   
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
