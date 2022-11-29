@@ -41,6 +41,9 @@
 <p>
   <a href="https://react-youtube9902.netlify.app/">리액트 YouTube API 사이트</a>
 </p>
+<p>
+  <a href="https://worldweather2022.netlify.app/">리액트 조별작업 World Weather 사이트 바로가기</a>
+</p>
 
 ### 📌 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 & 𝚃𝚘𝚘𝚕   
 <p>
