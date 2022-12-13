@@ -15,7 +15,7 @@
 
 ### 📚 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘   
 <p>
-  <a href="http://kde66034.dothome.co.kr/">KDE's PORTFOLIO</a> : 전체 포트폴리오 📂 <br>
+  <a href="http://kde66034.github.io/codingclass">KDE's PORTFOLIO</a> : 전체 포트폴리오 📂 <br>
   <a href="https://kde66034.tistory.com/">MY BLOG</a> : 코딩공책📚 티스토리 <br>
   <br>
   <a href="http://kde66034.dothome.co.kr/javascript/index.html"><img alt="JavaScript 포트폴리오" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
